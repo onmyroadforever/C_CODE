@@ -1,0 +1,6 @@
+﻿  main.c
+E:\visual studio code.c\2024\C_CODE\有序序列合并\code_practice_24_3_17\code_practice_24_3_17\main.c(8,10): warning C4477: “scanf_s”: 格式字符串“%d”需要类型“int *”的参数，但可变参数 1 拥有了类型“short *”
+E:\visual studio code.c\2024\C_CODE\有序序列合并\code_practice_24_3_17\code_practice_24_3_17\main.c(8,10): message : 请考虑在格式字符串中使用“%hd”
+E:\visual studio code.c\2024\C_CODE\有序序列合并\code_practice_24_3_17\code_practice_24_3_17\main.c(8,10): warning C4477: “scanf_s”: 格式字符串“%d”需要类型“int *”的参数，但可变参数 2 拥有了类型“short *”
+E:\visual studio code.c\2024\C_CODE\有序序列合并\code_practice_24_3_17\code_practice_24_3_17\main.c(8,10): message : 请考虑在格式字符串中使用“%hd”
+  code_practice_24_3_17.vcxproj -> E:\visual studio code.c\2024\C_CODE\有序序列合并\code_practice_24_3_17\x64\Debug\code_practice_24_3_17.exe
