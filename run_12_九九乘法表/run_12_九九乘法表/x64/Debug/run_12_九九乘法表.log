@@ -1,0 +1,4 @@
+﻿  project_4.c
+E:\vs2022的代码.2023年\run_12_九九乘法表\run_12_九九乘法表\project_4.c(4,9): warning C4101: “k”: 未引用的局部变量
+E:\vs2022的代码.2023年\run_12_九九乘法表\run_12_九九乘法表\project_4.c(4,12): warning C4101: “j”: 未引用的局部变量
+  run_12_九九乘法表.vcxproj -> E:\vs2022的代码.2023年\run_12_九九乘法表\x64\Debug\run_12_九九乘法表.exe

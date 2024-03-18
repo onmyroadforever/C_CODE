@@ -1,0 +1,5 @@
+﻿  Fib2.c
+  project_3.c
+E:\vs2022的代码.2023年\run_10_斐波那契数列\run_10_斐波那契数列\project_3.c(27,17): warning C4013: “Fib2”未定义；假设外部返回 int
+  正在生成代码...
+  run_10_斐波那契数列.vcxproj -> E:\vs2022的代码.2023年\run_10_斐波那契数列\x64\Debug\run_10_斐波那契数列.exe
